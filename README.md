@@ -1,5 +1,5 @@
-# ASR Benchmark
-ASR benchmark comparing Deepgram, Sarvam, and Whisper on noisy Hindi/Hinglish audio for Indian locality name recognition.
+# ASR 
+ASR comparing Deepgram, Sarvam, and Whisper on noisy Hindi/Hinglish audio for Indian locality name recognition.
 
 ## Models
 - Deepgram Nova-2 (baseline)
