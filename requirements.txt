@@ -1,0 +1,12 @@
+deepgram-sdk==3.7.0
+requests
+rapidfuzz
+jiwer
+pandas
+matplotlib
+indic-transliteration
+openai-whisper
+datasets
+soundfile
+torch
+torchaudio
